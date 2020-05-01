@@ -19,7 +19,7 @@ RECOMMENDED:
 
 1. Clone or download (button) this repository
 
-    git clone https://github.com/putssander/psych-datau.git
+        git clone https://github.com/putssander/psych-datau.git
 
 ## Run ##
 1. Navigate to the cloned or downloaded project using the terminal or cmd
@@ -34,4 +34,4 @@ RECOMMENDED:
 
 6. Navigate to the desired notebook in the browser (directory notebooks)
 
-7. Data can be copied to the resources/data folder (needs to be created)
+7. Data can be copied to the resources/data_ignored folder (needs to be created and is ignored)
