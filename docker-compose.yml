@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  jupyter-psych-datau:
+    image: jupyter/datascience-notebook:latest
+    container_name: jupyter-psych-datau
+    ports:
+      - '8888:8888'
+    volumes:
+      - "./:/home/jovyan/work"
