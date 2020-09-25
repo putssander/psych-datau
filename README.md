@@ -3,7 +3,7 @@
 Data Utilities for PRE/POST-processing psychology-data and analysis of results.
 
 - Link subject PRE and POST responses [link](notebooks/link_subject_pre_post_responses.ipynb)
-- Classify objective binges [link](notebooks/filter_objective_binges.ipynb)
+- Classify objective binges [link](notebooks/classify_binges.ipynb)
 
 ## Dependencies ##
 
